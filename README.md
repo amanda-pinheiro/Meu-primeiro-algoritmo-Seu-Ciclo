@@ -9,7 +9,7 @@ The three current modules used were:
 
 2 - Data: captures the main data for the program's outcome.
 
-3 - Resposnses: pattern texts for each condition filtered by the main data.
+3 - Responses: pattern texts for each condition filtered by the main data.
 
 If you're interested in learning more about the creation process of this project, please check out my Medium blog:
 https://medium.com/@amanda.py
