@@ -6,7 +6,9 @@ Here, you are going to find the algorithm as the main file, but I also added the
 The three current modules used were:
 
 1 - Interface: organizes the code into a pattern.
+
 2 - Data: captures the main data for the program's outcome.
+
 3 - Resposnses: pattern texts for each condition filtered by the main data.
 
 If you're interested in learning more about the creation process of this project, please check out my Medium blog:
