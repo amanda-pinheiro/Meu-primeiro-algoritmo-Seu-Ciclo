@@ -12,4 +12,4 @@ The three current modules used were:
 3 - Responses: pattern texts for each condition filtered by the main data.
 
 If you're interested in learning more about the creation process of this project, please check out my Medium blog:
-https://medium.com/@amanda.py
+[https://medium.com/@amanda.py](https://medium.com/@amanda.py/my-first-python-project-b569d54a9a6a)
